@@ -20,4 +20,4 @@ Este proyecto permite consultar información sobre las películas de Star Wars u
 1. **Clonar el Repositorio:**
 
    ```bash
-   git clone <repositorio_url>
+   git clone https://github.com/Juan-Matias/API_Star_Wars-Alura-Latam-.git
